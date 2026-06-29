@@ -28,3 +28,5 @@ git push origin master
 '''bash
 git checkout -b Nom_de_Branche 
 '''
+
+Pour les bonnes pratiques, on va intégrer la notion de revue de code.
