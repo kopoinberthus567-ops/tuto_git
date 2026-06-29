@@ -20,5 +20,11 @@ Description de notre commit avec des information sur l'évolution du projet
 '''bash
 git add .
 git commit -m "Titre du commit"
-git pust origin master
+git push origin master
+'''
+
+## Création d'une branche
+
+'''bash
+git checkout -b Nom_de_Branche 
 '''
